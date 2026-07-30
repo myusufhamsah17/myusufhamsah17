@@ -1,7 +1,15 @@
-# Hi 👋 I'm M Yusuf Hamsah
+# Hi 👋, I'm M Yusuf Hamsah
 
-🎓 Informatics Engineering Student
+🎓 Informatics Engineering Student at UIN Suska Riau
 
-💻 Full Stack Developer
+🌱 Currently learning Full Stack Development
 
-🌱 Learning React, Java, Laravel
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,mysql,git,github,vscode,figma,androidstudio,tailwind,bootstrap&perline=8" />
+</p>
+
+## 📊 GitHub Stats
+
+...
