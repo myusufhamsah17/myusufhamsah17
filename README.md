@@ -2,23 +2,22 @@
 
 <h3 align="center">
 🎓 Informatics Engineering Student <br>
-💻 Aspiring Full Stack Developer <br>
-🚀 Tech Enthusiast | UI/UX | Android | Web Development
+💻 Full Stack Developer <br>
+🚀 UI/UX Designer • Android Developer • Web Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Informatics Engineering Student at **UIN Sultan Syarif Kasim Riau**
-- 🌱 Currently learning **React, Laravel, Node.js, Android Development**
-- 💻 Passionate about Web Development, Mobile Apps & UI/UX
-- 🚀 Love Open Source
-- 📍 Riau, Indonesia
+- 🎓 Informatics Engineering Student
+- 🌱 Learning React, Laravel, Android Development
+- 💻 Interested in Web Development & UI/UX
+- 📍 Indonesia
 
 ---
 
@@ -26,20 +25,16 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="mailto:example@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -60,9 +55,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=myusufhamsah17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusufhamsah17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -72,43 +67,53 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=myusufhamsah17&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myusufhamsah17&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=myusufhamsah17&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor Counter
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=myusufhamsah17&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/myusufhamsah17/myusufhamsah17/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ✍ Random Quote
 
 <p align="center">
 
@@ -118,9 +123,9 @@
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Fun Code
 
-```text
+```java
 while(alive){
     eat();
     code();
@@ -133,6 +138,6 @@ while(alive){
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:0055FF&section=footer"/>
 
 </p>
