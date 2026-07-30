@@ -36,3 +36,11 @@
 <img src="https://komarev.com/ghpvc/?username=myusufhamsah17&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:2563EB&height=120&section=footer"/>
+
+## 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/myusufhamsah17/myusufhamsah17/main/github-metrics.svg"/>
+
+</p>
