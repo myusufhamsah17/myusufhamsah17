@@ -26,8 +26,14 @@
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=myusufhamsah17&theme=tokyo-night"/>
 
-## 🏆 Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=myusufhamsah17&theme=tokyonight&no-frame=true"/>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=myusufhamsah17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ## 🐍 Snake
 <img src="https://raw.githubusercontent.com/myusufhamsah17/myusufhamsah17/output/github-contribution-grid-snake.svg"/>
