@@ -12,12 +12,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,python,php,laravel,mysql,oracle,mongodb,firebase,androidstudio,figma,git,github,vscode,linux,tailwind,bootstrap&perline=8"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=myusufhamsah17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusufhamsah17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/myusufhamsah17/myusufhamsah17/main/github-metrics.svg">
 </p>
 
 ## 🔥 Streak
